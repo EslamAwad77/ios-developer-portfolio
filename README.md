@@ -1,6 +1,8 @@
 # <Your Name> — iOS Developer Portfolio
 
-Hi! I’m <Your Name>, an iOS developer based in Cairo. Here’s a bit of what I’ve been working on.
+👋 Hi! I’m Eslam Awad Khater, an IOS Developer  || ( UIKit - Swift UI - Clean Architecture )
+
+Here’s a bit of what I’ve been working on.
 
 ## 📌 Selected Projects
 
