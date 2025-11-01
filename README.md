@@ -30,3 +30,7 @@ Short summary.
     
 *Screenshots:*  
 ![Screenshot1](https://ibb.co/mCMbpT84) ![Screenshot2](https://ibb.co/mCMbpT84)
+![Screenshot1](https://user-images.githubusercontent.com/26801446/236644866-528e83a1-3805-4e5e-904e-c1f2109772ac.png)
+![Screenshot1](./images/screenshot1.png)
+![Screenshot2](./images/screenshot2.png)
+
