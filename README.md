@@ -29,4 +29,4 @@ Short summary.
   - Implemented
     
 *Screenshots:*  
-![Screenshot1]([link](https://ibb.co/mCMbpT84)) ![Screenshot2]([link](https://ibb.co/mCMbpT84))
+![Screenshot1](https://ibb.co/mCMbpT84) ![Screenshot2](https://ibb.co/mCMbpT84)
