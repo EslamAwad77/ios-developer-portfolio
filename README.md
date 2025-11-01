@@ -10,20 +10,28 @@ Here’s a bit of what I’ve been working on.
 https://apps.apple.com/eg/app/start-point/id6476136533
 
 *Role:* Senior iOS Software Enginner
+
 *Tech used:* 
 Swift 
 UIKit
 Combine 
 Firebase  
+
 *Description:* 
 Short summary.  
+
 *Tech Used:*  
+  - Implemented
+  - Implemented
+
 *Key contributions:*
   - Implemented
   - Implemented
+
 *Key contributions:*
   - Implemented
   - Implemented
+
 *Technologies:*
   - Implemented
   - Implemented
