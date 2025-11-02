@@ -7,97 +7,38 @@ Here’s a bit of what I’ve been working on.
 # 📌[Start Point](https://apps.apple.com/eg/app/start-point/id6476136533)
 https://apps.apple.com/eg/app/start-point/id6476136533
 
-| Icon | Section | Details |
-|------|---------|---------|
-| ![Role Icon](https://your-icon-url.com/role.png) | **Role** | Senior iOS Software Engineer |
-| ![Tech Icon](https://your-icon-url.com/tech.png) | **Tech Used** | Swift | UIKit | Combine | Firebase |
-| ![Description Icon](https://your-icon-url.com/description.png) | **Description** | Short summary. |
-| ![Contributions Icon](https://your-icon-url.com/contrib.png) | **Key Contributions** | - Implemented …  <br> - Implemented …  |
-| ![Technologies Icon](https://your-icon-url.com/technologies.png) | **Technologies** | - Implemented …  <br> - Implemented … |
-| ![Screenshots Icon](https://your-icon-url.com/screenshots.png) | **Screenshots** | <img src="https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png" alt="Screenshot1" width="45%" /> |
- 
-![Screenshot1](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png) ![Screenshot2](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-![Screenshot1](https://user-images.githubusercontent.com/26801446/236644866-528e83a1-3805-4e5e-904e-c1f2109772ac.png)
-![Screenshot1](./images/screenshot1.png)
-![Screenshot2](./images/screenshot2.png)
+| Section | Details |
+|---------|---------|
+| 🎯 **SubTitle** | Medical & LifeStyle Career. |
+| ✏️ **Description** | Developed a comprehensive health and wellness app enabling users to subscribe for personalized consultations, daily meal plans, and weekly workout schedules — including video/audio sessions via ZEGOCLOUD. Integrated social sharing, progress tracking, and personalized multimedia content to enhance user engagement and health outcomes. |
+| 🛠️ **Tech Used** | Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · UIGraphicsBeginImageContext · UIActivityViewController · Lottie |
+| 🧰 **Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
+| 📷 **Screenshots** | ![Screenshot1](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png) |
 
-# [Start Point](https://apps.apple.com/eg/app/start-point/id6476136533)
+---
+
+# 📌[Start Point](https://apps.apple.com/eg/app/start-point/id6476136533)
 https://apps.apple.com/eg/app/start-point/id6476136533
-
-*Role:* Senior iOS Software Enginner
-
-*Tech used:* 
-Swift 
-UIKit
-Combine 
-Firebase  
-
-*Description:* 
-Short summary.  
-
-*Tech Used:*  
-  - Implemented
-  - Implemented
-
-*Key contributions:*
-  - Implemented
-  - Implemented
-
-*Key contributions:*
-  - Implemented
-  - Implemented
-
-*Technologies:*
-  - Implemented
-  - Implemented
-    
-*Screenshots:*  
-![Screenshot1](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png) 
-
-# [Start Point](https://apps.apple.com/eg/app/start-point/id6476136533)
-https://apps.apple.com/eg/app/start-point/id6476136533
-
-
-### **Role**  
-![Role Icon](https://your-icon-url.com/role.png) **Senior iOS Software Engineer**
-
-### **Tech Used**  
-![Tech Icon](https://your-icon-url.com/tech.png)  
-**Swift | UIKit | Combine | Firebase**
-
-### **Description**  
-![Description Icon](https://your-icon-url.com/description.png)  
-Short summary.
-
-### **Key Contributions**  
-![Contributions Icon](https://your-icon-url.com/contrib.png)  
-- Implemented …  
-- Implemented …  
-- Implemented …  
-- Implemented …
-
-### **Technologies**  
-![Technologies Icon](https://your-icon-url.com/technologies.png)  
-- Implemented …  
-- Implemented …
-  
-### **Screenshots**  
-![Screenshot1](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-
-
-
-
-# [Start Point](https://apps.apple.com/eg/app/start-point/id6476136533)
-https://apps.apple.com/eg/app/start-point/id6476136533
-
 
 | Section | Details |
 |---------|---------|
-| 👤 **Role** | Senior iOS Software Engineer |
-| 🛠️ **Tech Used** | Swift · UIKit · Combine · Firebase |
+| 🎯 **SubTitle** | Short summary. |
 | ✏️ **Description** | Short summary. |
-| 📌 **Key Contributions** | - Implemented …  <br> - Implemented … |
+| 🛠️ **Tech Used** | Swift · UIKit · Combine · Firebase |
 | 🧰 **Technologies** | - Implemented …  <br> - Implemented … |
 | 📷 **Screenshots** | ![Screenshot1](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png) |
 
+---
 
+# 🧑‍💻 About Me
+| Field | Details |
+|-------|----------|
+| **Name** | Eslam Awad Khater |
+| **Title** | Senior iOS Mobile Developer |
+| **Email** | [eslam.awad.work@gmail.com](mailto:eslam.awad.work@gmail.com) |
+| **Phone** | +20 100 318 9674 / ‪+20 102 015 6533 |
+| **Marital Status** | Married |
+| **Nationality** | Egyptian |
+| **Location** | Egypt, Maadi - Dakahlia, Mansoura |
+| **Military Service** | Exemption |
+| **LinkedIn** | [linkedin.com/in/eslam-awad-36aa91204](https://linkedin.com/in/eslam-awad-36aa91204) |
