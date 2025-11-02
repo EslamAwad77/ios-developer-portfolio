@@ -4,9 +4,7 @@
 
 Here’s a bit of what I’ve been working on.
 
-## 📌 Projects Worked on it:
-
-# [Start Point](https://apps.apple.com/eg/app/start-point/id6476136533)
+# 📌[Start Point](https://apps.apple.com/eg/app/start-point/id6476136533)
 https://apps.apple.com/eg/app/start-point/id6476136533
 
 | Icon | Section | Details |
