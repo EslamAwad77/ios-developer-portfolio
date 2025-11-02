@@ -186,9 +186,9 @@ https://apps.apple.com/eg/app/ibite-digital-food-menu/id6740300041
 
 ---
 
-# 📌 [Tam](Client - Provider)(https://testflight.apple.com/join/kWyyu2cQ)(https://testflight.apple.com/join/wmnyj687)
-# client -> https://testflight.apple.com/join/kWyyu2cQ
-# provider -> https://testflight.apple.com/join/wmnyj687
+# 📌 [Tam](Client - Provider)(https://testflight.apple.com/join/kWyyu2cQ)
+client -> https://testflight.apple.com/join/kWyyu2cQ
+provider -> https://testflight.apple.com/join/wmnyj687
 
 | Section | Details |
 |---------|---------|
@@ -265,9 +265,9 @@ https://apps.apple.com/eg/app/dream-closet/id6698866809
 
 ---
 
-# 📌 [3NK](Client - Provider)(https://testflight.apple.com/join/XFauPyVT)(https://testflight.apple.com/join/CCv3NzW4)
-# Cient -> https://testflight.apple.com/join/XFauPyVT
-# Provider -> https://testflight.apple.com/join/CCv3NzW4
+# 📌 [3NK (Client - Provider)](https://testflight.apple.com/join/XFauPyVT)
+Cient -> https://testflight.apple.com/join/XFauPyVT
+Provider -> https://testflight.apple.com/join/CCv3NzW4
 
 | Section | Details |
 |---------|---------|
@@ -318,9 +318,9 @@ https://apps.apple.com/eg/app/dream-closet/id6698866809
 
 ---
 
-# 📌 [Ertah]Herfa(Client - Provider)(https://apps.apple.com/eg/app/ertah-%D8%A5%D8%B1%D8%AA%D8%A7%D8%AD/id6480517163 - https://apps.apple.com/eg/app/ertah-partner/id6503657481)
-# client -> https://apps.apple.com/eg/app/ertah-%D8%A5%D8%B1%D8%AA%D8%A7%D8%AD/id6480517163
-# provider -> https://apps.apple.com/eg/app/ertah-partner/id6503657481
+# 📌 [Ertah / Herfa (Client - Provider)](https://apps.apple.com/eg/app/ertah-%D8%A5%D8%B1%D8%AA%D8%A7%D8%AD/id6480517163)
+client -> https://apps.apple.com/eg/app/ertah-%D8%A5%D8%B1%D8%AA%D8%A7%D8%AD/id6480517163
+provider -> https://apps.apple.com/eg/app/ertah-partner/id6503657481
  
 | Section | Details |
 |---------|---------|
@@ -345,7 +345,7 @@ https://apps.apple.com/eg/app/dream-closet/id6698866809
 
 ---
 
-# 📌 [HATH] (https://testflight.apple.com/join/YR2kRZlz)
+# 📌 [HATH](https://testflight.apple.com/join/YR2kRZlz)
 https://testflight.apple.com/join/YR2kRZlz
  
 | Section | Details |
@@ -371,7 +371,7 @@ https://testflight.apple.com/join/YR2kRZlz
 
 ---
 
-# 📌 [Jobs World] (https://apps.apple.com/eg/app/jobs-world/id1481055617)
+# 📌 [Jobs World](https://apps.apple.com/eg/app/jobs-world/id1481055617)
 https://apps.apple.com/eg/app/jobs-world/id1481055617
  
 | Section | Details |
@@ -397,9 +397,9 @@ https://apps.apple.com/eg/app/jobs-world/id1481055617
 
 ---
 
-# 📌 [Talabatk](Client - Provider) (https://testflight.apple.com/join/2jmCpzg7)
-# client -> https://testflight.apple.com/join/2jmCpzg7
-# (provider - delegate) -> https://testflight.apple.com/join/LVDH7uTH
+# 📌 [Talabatk (Client - Provider)](https://testflight.apple.com/join/2jmCpzg7)
+client -> https://testflight.apple.com/join/2jmCpzg7
+(provider - delegate) -> https://testflight.apple.com/join/LVDH7uTH
  
 | Section | Details |
 |---------|---------|
@@ -424,7 +424,7 @@ https://apps.apple.com/eg/app/jobs-world/id1481055617
 
 ---
 
-# 📌 [Restoranti] (https://apps.apple.com/eg/app/restoranti/id6467717247)
+# 📌 [Restoranti](https://apps.apple.com/eg/app/restoranti/id6467717247)
 https://apps.apple.com/eg/app/restoranti/id6467717247
  
 | Section | Details |
@@ -450,33 +450,7 @@ https://apps.apple.com/eg/app/restoranti/id6467717247
 
 ---
 
-# 📌 [Restoranti] (https://apps.apple.com/eg/app/restoranti/id6467717247)
-https://apps.apple.com/eg/app/restoranti/id6467717247
- 
-| Section | Details |
-|---------|---------|
-| **🎯 SubTitle** | E-Commerce. |
-| **✏️ Description** | Developed a dedicated restaurant app with table reservations, multi-cart ordering, and advanced filtering by meal type and rating. Integrated PayFort payment gateway to enable secure and seamless transactions. |
-| **🛠️ Tech Used** | Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · UIGraphicsBeginImageContext · UIActivityViewController · Lottie |
-| **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
-| **🖼️ App Logo** | ![App Logo](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png) |
-
----
-
-<div align="left">
-### 📷 Screenshots  
-
-![Screenshot1](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-![Screenshot2](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-![Screenshot3](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-![Screenshot4](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-![Screenshot5](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-
-</div>
-
----
-
-# 📌 [DIVANO] (https://apps.apple.com/eg/app/divano/%20%20id6448907367)
+# 📌 [DIVANO](https://apps.apple.com/eg/app/divano/%20%20id6448907367)
 https://apps.apple.com/eg/app/divano/%20%20id6448907367
  
 | Section | Details |
@@ -502,7 +476,7 @@ https://apps.apple.com/eg/app/divano/%20%20id6448907367
 
 ---
 
-# 📌 [Alexon Resturant](Company Product) (https://apps.apple.com/eg/app/alexon-restaurant/id6447482543)
+# 📌 [Alexon Resturant (Company Product)](https://apps.apple.com/eg/app/alexon-restaurant/id6447482543)
 https://apps.apple.com/eg/app/alexon-restaurant/id6447482543
  
 | Section | Details |
@@ -528,7 +502,7 @@ https://apps.apple.com/eg/app/alexon-restaurant/id6447482543
 
 ---
 
-# 📌 [Ostaz](Company Product) (https://github.com/EslamAwad77/Ostaz)
+# 📌 [Ostaz](https://github.com/EslamAwad77/Ostaz)
 https://github.com/EslamAwad77/Ostaz
  
 | Section | Details |
@@ -554,7 +528,7 @@ https://github.com/EslamAwad77/Ostaz
 
 ---
 
-# 📌 [Media Finder](Company Product) (https://github.com/EslamAwad77/MediaFinder)
+# 📌 [Media Finder](https://github.com/EslamAwad77/MediaFinder)
 https://github.com/EslamAwad77/MediaFinder
  
 | Section | Details |
