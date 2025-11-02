@@ -20,9 +20,7 @@ https://apps.apple.com/eg/app/start-point/id6476136533
 
 ---
 
-### 📷 Screenshots  
-<div align="center">
-
+<div align="left">
 ### 📷 Screenshots  
 
 ![Screenshot1](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
