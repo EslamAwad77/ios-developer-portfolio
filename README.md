@@ -18,15 +18,15 @@ https://apps.apple.com/eg/app/start-point/id6476136533
 
 <div align="center">
 
-### 📷 Screenshots  
+# 📷 Screenshots  
 
-<p align="center" style="display:flex; justify-content:center; gap:10px; flex-wrap:nowrap;">
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-1.imageset/9104190.png" width="180" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-2.imageset/9104191.png" width="180" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-3.imageset/9104192.png" width="180" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-4.imageset/9104193.png" width="180" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-5.imageset/9104194.png" width="180" />
-</p>
+<div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-1.imageset/9104190.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-2.imageset/9104191.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-3.imageset/9104192.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-4.imageset/9104193.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-5.imageset/9104194.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+</div>
 
 </div>
 
