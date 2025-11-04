@@ -74,22 +74,6 @@ https://testflight.apple.com/join/1bPpeP34
 
 ---
 
-<div align="center">
-
-# 📷 Screenshots  
-
-<div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-1.imageset/9104190.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-2.imageset/9104191.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-3.imageset/9104192.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-4.imageset/9104193.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-5.imageset/9104194.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-</div>
-
-</div>
-
----
-
 # 📌 [Coursemia](https://apps.apple.com/app/coursemia/id6504541195)
 https://apps.apple.com/app/coursemia/id6504541195
 
@@ -374,22 +358,6 @@ Provider -> https://testflight.apple.com/join/CCv3NzW4
 | **✏️ Description** | Developed dual apps providing legal services and consultations with integrated real-time voice/video calling — initially using OpenTalk framework, later migrated to ZEGOCLOUD. Enabled seamless communication between clients and legal advisors within a secure environment. |
 | **🛠️ Tech Used** | Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · UIGraphicsBeginImageContext · UIActivityViewController · Lottie |
 | **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
-
----
-
-<div align="center">
-
-# 📷 Screenshots  
-
-<div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-1.imageset/9104190.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-2.imageset/9104191.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-3.imageset/9104192.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-4.imageset/9104193.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-5.imageset/9104194.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-</div>
-
-</div>
 
 ---
 
