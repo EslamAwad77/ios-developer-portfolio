@@ -326,19 +326,35 @@ Provider -> https://testflight.apple.com/join/CCv3NzW4
 | **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
 
 ---
-
+# Client
 <div align="center">
 
 # 📷 Screenshots  
 
 <div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-1.imageset/9104190.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-2.imageset/9104191.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-3.imageset/9104192.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-4.imageset/9104193.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-5.imageset/9104194.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/3NK/Client/9876834.imageset/9876834.png" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/3NK/Client/9876835.imageset/9876835.png" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/3NK/Client/9876836.imageset/9876836.png" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/3NK/Client/9876837.imageset/9876837.png" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/3NK/Client/9876838.imageset/9876838.png" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/3NK/Client/9876839.imageset/9876839.png" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+</div>
 </div>
 
+---
+# Provider
+<div align="center">
+
+# 📷 Screenshots  
+
+<div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
+ <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/3NK/PRovider/9876846.imageset/9876846.png" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+ <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/3NK/PRovider/9876847.imageset/9876847.png" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+ <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/3NK/PRovider/9876848.imageset/9876848.png" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+ <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/3NK/PRovider/9876849.imageset/9876849.png" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+ <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/3NK/PRovider/9876851.imageset/9876851.png" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+ <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/3NK/PRovider/9876850.imageset/9876850.png" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+</div>
 </div>
 
 ---
@@ -382,18 +398,34 @@ provider -> https://apps.apple.com/eg/app/ertah-partner/id6503657481
 | **🛠️ Tech Used** | Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · UIGraphicsBeginImageContext · UIActivityViewController · Lottie |
 | **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
 
+---
+# Client
 <div align="center">
 
 # 📷 Screenshots  
 
 <div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-1.imageset/9104190.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-2.imageset/9104191.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-3.imageset/9104192.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-4.imageset/9104193.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-5.imageset/9104194.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Herfa/Client/Clip%20path%20group.imageset/Clip%20path%20group.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Herfa/Client/Clip%20path%20group-1.imageset/Clip%20path%20group-1.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Herfa/Client/Clip%20path%20group-3.imageset/Clip%20path%20group-3.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Herfa/Client/Clip%20path%20group-2.imageset/Clip%20path%20group-2.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Herfa/Client/Clip%20path%20group-4.imageset/Clip%20path%20group-4.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+</div>
 </div>
 
+---
+# Provider
+<div align="center">
+
+# 📷 Screenshots  
+
+<div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
+ <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Herfa/provider/Clip%20path%20group.imageset/Clip%20path%20group.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+ <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Herfa/provider/Clip%20path%20group-1.imageset/Clip%20path%20group-1.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+ <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Herfa/provider/Clip%20path%20group-2.imageset/Clip%20path%20group-2.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+ <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Herfa/provider/Clip%20path%20group-3.imageset/Clip%20path%20group-3.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+ <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Herfa/provider/Clip%20path%20group-4.imageset/Clip%20path%20group-4.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+</div>
 </div>
 
 ---
@@ -415,13 +447,16 @@ https://testflight.apple.com/join/YR2kRZlz
 # 📷 Screenshots  
 
 <div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-1.imageset/9104190.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-2.imageset/9104191.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-3.imageset/9104192.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-4.imageset/9104193.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-5.imageset/9104194.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Hath/1%20%E2%80%93%2022.imageset/1%20%E2%80%93%2022.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="
+https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Hath/1%20%E2%80%93%2066.imageset/1%20%E2%80%93%2066.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Hath/1%20%E2%80%93%2067.imageset/1%20%E2%80%93%2067.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Hath/1%20%E2%80%93%2069.imageset/1%20%E2%80%93%2069.pn" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Hath/1%20%E2%80%93%2068.imageset/1%20%E2%80%93%2068.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Hath/1%20%E2%80%93%2072.imageset/1%20%E2%80%93%2072.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Hath/1%20%E2%80%93%2071.imageset/1%20%E2%80%93%2071.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Hath/1%20%E2%80%93%2070.imageset/1%20%E2%80%93%2070.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
 </div>
-
 </div>
 
 ---
@@ -593,22 +628,6 @@ https://github.com/EslamAwad77/Ostaz
 
 ---
 
-<div align="center">
-
-# 📷 Screenshots  
-
-<div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-1.imageset/9104190.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-2.imageset/9104191.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-3.imageset/9104192.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-4.imageset/9104193.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-5.imageset/9104194.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-</div>
-
-</div>
-
----
-
 # 📌 [Media Finder](https://github.com/EslamAwad77/MediaFinder)
 https://github.com/EslamAwad77/MediaFinder
  
@@ -618,22 +637,6 @@ https://github.com/EslamAwad77/MediaFinder
 | **✏️ Description** | Developed a streaming platform offering movies, series, and music content similar to Netflix. Built with a rich media library and smooth playback experience to enhance user entertainment. |
 | **🛠️ Tech Used** | Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · UIGraphicsBeginImageContext · UIActivityViewController · Lottie |
 | **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
-
----
-
-<div align="center">
-
-# 📷 Screenshots  
-
-<div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-1.imageset/9104190.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-2.imageset/9104191.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-3.imageset/9104192.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-4.imageset/9104193.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-5.imageset/9104194.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-</div>
-
-</div>
 
 ---
 
