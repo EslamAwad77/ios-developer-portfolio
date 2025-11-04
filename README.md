@@ -129,14 +129,18 @@ https://apps.apple.com/eg/app/kafooo/id6605934382
  
 ---
 
-<div align="left">
-### 📷 Screenshots  
 
-![Screenshot1](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-![Screenshot2](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-![Screenshot3](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-![Screenshot4](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-![Screenshot5](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
+<div align="center">
+
+# 📷 Screenshots  
+
+<div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-1.imageset/9104190.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-2.imageset/9104191.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-3.imageset/9104192.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-4.imageset/9104193.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-5.imageset/9104194.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+</div>
 
 </div>
 
@@ -154,14 +158,18 @@ https://testflight.apple.com/join/BNJfC1PD
  
 ---
 
-<div align="left">
-### 📷 Screenshots  
 
-![Screenshot1](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-![Screenshot2](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-![Screenshot3](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-![Screenshot4](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-![Screenshot5](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
+<div align="center">
+
+# 📷 Screenshots  
+
+<div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-1.imageset/9104190.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-2.imageset/9104191.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-3.imageset/9104192.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-4.imageset/9104193.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-5.imageset/9104194.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+</div>
 
 </div>
 
@@ -179,14 +187,18 @@ https://apps.apple.com/eg/app/ibite-digital-food-menu/id6740300041
 
 ---
 
-<div align="left">
-### 📷 Screenshots  
 
-![Screenshot1](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-![Screenshot2](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-![Screenshot3](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-![Screenshot4](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-![Screenshot5](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
+<div align="center">
+
+# 📷 Screenshots  
+
+<div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-1.imageset/9104190.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-2.imageset/9104191.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-3.imageset/9104192.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-4.imageset/9104193.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-5.imageset/9104194.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+</div>
 
 </div>
 
@@ -205,15 +217,38 @@ provider -> https://testflight.apple.com/join/wmnyj687
 | **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
 
 ---
+# Client App
 
-<div align="left">
-### 📷 Screenshots  
+<div align="center">
 
-![Screenshot1](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-![Screenshot2](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-![Screenshot3](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-![Screenshot4](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-![Screenshot5](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
+# 📷 Screenshots  
+
+<div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Tam/Client/4152.imageset/4152.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Tam/Client/4179.imageset/4179.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Tam/Client/4156.imageset/4156.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Tam/Client/4154.imageset/4154.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Tam/Client/4159.imageset/4159.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Tam/Client/4160.imageset/4160.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Tam/Client/4181.imageset/4181.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Tam/Client/4180.imageset/4180.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+</div>
+
+</div>
+
+# Provider App
+
+<div align="center">
+
+# 📷 Screenshots  
+
+<div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-1.imageset/9104190.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-2.imageset/9104191.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-3.imageset/9104192.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-4.imageset/9104193.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-5.imageset/9104194.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+</div>
 
 </div>
 
