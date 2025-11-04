@@ -105,12 +105,12 @@ https://apps.apple.com/app/coursemia/id6504541195
 # 📷 Screenshots  
 
 <div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Coursemia/Custom%20Size%20–%201.imageset/Custom%20Size%20–%201.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Coursemia/Custom%20Size%20–%208.imageset/Custom%20Size%20–%208.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Coursemia/Custom%20Size%20–%209.imageset/Custom%20Size%20–%209.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Coursemia/Custom%20Size%20–%2010.imageset/Custom%20Size%20–%2010.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Coursemia/Custom%20Size%20–%2011.imageset/Custom%20Size%20–%2011.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Coursemia/Custom%20Size%20–%2012.imageset/Custom%20Size%20–%2012.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Coursemia/Custom%20Size%20–%201.imageset/Custom%20Size%20–%201.png" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Coursemia/Custom%20Size%20–%208.imageset/Custom%20Size%20–%208.png" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Coursemia/Custom%20Size%20–%209.imageset/Custom%20Size%20–%209.png" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Coursemia/Custom%20Size%20–%2010.imageset/Custom%20Size%20–%2010.png" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Coursemia/Custom%20Size%20–%2011.imageset/Custom%20Size%20–%2011.png" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Coursemia/Custom%20Size%20–%2012.imageset/Custom%20Size%20–%2012.png" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
 </div>
 
 </div>
