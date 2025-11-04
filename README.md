@@ -273,11 +273,12 @@ https://apps.apple.com/eg/app/dream-closet/id6698866809
 # 📷 Screenshots  
 
 <div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-1.imageset/9104190.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-2.imageset/9104191.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-3.imageset/9104192.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-4.imageset/9104193.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-5.imageset/9104194.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Dream%20Closet/1%20–%208.imageset/1%20–%208.png" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Dream%20Closet/1%20–%2017.imageset/1%20–%2017.png" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+  <img src="[https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Coursemia/Custom%20Size%20–%2011.imageset/Custom%20Size%20–%2011.png](https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Dream%20Closet/1%20–%2016.imageset/1%20–%2016.png)" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Dream%20Closet/1%20–%2019.imageset/1%20–%2019.png" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Dream%20Closet/1%20–%2018.imageset/1%20–%2018.png" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" /> 
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Dream%20Closet/1%20–%2015.imageset/1%20–%2015.png" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
 </div>
 
 </div>
@@ -466,15 +467,35 @@ client -> https://testflight.apple.com/join/2jmCpzg7
 | **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
 
 ---
+# Client
 
-<div align="left">
-### 📷 Screenshots  
+<div align="center">
 
-![Screenshot1](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-![Screenshot2](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-![Screenshot3](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-![Screenshot4](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
-![Screenshot5](https://github.com/EslamAwad77/Task/blob/main/InterviewTask/Infrastructure/Resources/Assets.xcassets/Vectors/homeCategory1.imageset/hospital.png)
+# 📷 Screenshots  
+
+<div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Talabatk/user/1.imageset/1.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Talabatk/user/2.imageset/2.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Talabatk/user/3.imageset/3.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+  <img src=https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Talabatk/user/4.imageset/4.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+</div>
+
+</div>
+
+---
+
+# Provider - Delegate
+
+<div align="center">
+
+# 📷 Screenshots  
+
+<div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Talabatk/provider/1.imageset/1.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Talabatk/provider/2.imageset/2.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Talabatk/provider/3.imageset/3.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Talabatk/provider/4.imageset/4.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+</div>
 
 </div>
 
