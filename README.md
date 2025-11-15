@@ -632,4 +632,5 @@ https://github.com/EslamAwad77/MediaFinder
 | **Nationality** | Egyptian |
 | **Location** | Egypt, Maadi - Dakahlia, Mansoura |
 | **Military Service** | Exemption |
+| **My CV Resume** | [📄 My CV Resume](https://flowcv.com/resume/njaewse3bb) |
 | **LinkedIn** | [linkedin.com/in/eslam-awad-36aa91204](https://linkedin.com/in/eslam-awad-36aa91204) |
