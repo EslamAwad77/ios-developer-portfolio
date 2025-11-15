@@ -16,6 +16,20 @@ https://apps.apple.com/eg/app/start-point/id6476136533
 
 ---
 
+### 🛠️ Tech Used
+Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · Lottie · UIGraphicsBeginImageContext · UIActivityViewController
+
+### 🧰 Technologies & Responsibilities
+- Applied MVVM + Coordinator clean architecture  
+- Built reactive data flows using Combine  
+- Integrated Firebase (Auth, FCM, Analytics)  
+- Implemented ZEGOCLOUD voice/video calling  
+- Integrated HyperPay & Tamara payment gateways  
+- Added AppsFlyer for analytics & deep linking  
+- Used Lottie for animations  
+- Handled image generation & sharing using UIGraphics & UIActivityViewController  
+
+
 <div align="center">
 
 # 📷 Screenshots  
