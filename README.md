@@ -27,7 +27,6 @@ https://apps.apple.com/eg/app/start-point/id6476136533
   <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-4.imageset/9104193.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
   <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Start%20Point/start-point-5.imageset/9104194.png" style="height: auto; width: 18%; min-width: 160px; border-radius: 8px;" />
 </div>
-
 </div>
 
 ---
@@ -39,9 +38,6 @@ https://apps.apple.com/eg/app/tahwela-%D8%AA%D8%AD%D9%88%D9%8A%D9%84%D9%87/id156
 |---------|---------|
 | **🎯 SubTitle** | General transport - Container transport. |
 | **✏️ Description** | Tahweela is a smart transportation app connecting users, drivers, transport offices, and customs brokers for container and cargo shipping it enables users to create orders, pay via cash, Paymob, or wallet, and provides insurance options for both users and drivers.The app also supports AppsFlyer analytics for performance tracking and allows drivers to withdraw earnings or settle debts easily. |
-| **🛠️ Tech Used** | Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · UIGraphicsBeginImageContext · UIActivityViewController · Lottie |
-| **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
-
 ---
 
 <div align="center">
@@ -62,16 +58,13 @@ https://apps.apple.com/eg/app/tahwela-%D8%AA%D8%AD%D9%88%D9%8A%D9%84%D9%87/id156
 
 ---
 
-# 📌 [Delmar HealthCare](https://testflight.apple.com/join/1bPpeP34)
+# 📌 [Delmar HealthCare(Support)](https://testflight.apple.com/join/1bPpeP34)
 https://testflight.apple.com/join/1bPpeP34
 
 | Section | Details |
 |---------|---------|
 | **🎯 SubTitle** | Smart Patient App. |
 | **✏️ Description** | Delmar HealthCare is a smart patient app designed to enhance personal health management.Patients can communicate directly with an AI assistant for guidance, request regular checkups or remote healthcare, and track all vital health indicators in real time.The app provides access to personalized diet plans, medication management, health news, and daily routines, along with detailed medical and personal records.Users can also view current and past appointments, and securely log in using biometric authentication (fingerprint)activated directly within the app. |
-| **🛠️ Tech Used** | Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · UIGraphicsBeginImageContext · UIActivityViewController · Lottie |
-| **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
-
 ---
 
 # 📌 [Coursemia](https://apps.apple.com/app/coursemia/id6504541195)
@@ -81,9 +74,6 @@ https://apps.apple.com/app/coursemia/id6504541195
 |---------|---------|
 | **🎯 SubTitle** | Medical Career (MRCS). |
 | **✏️ Description** | Built an advanced e-learning platform for surgeons offering MRCS-focused courses, video lectures with PIP, and interactive file annotations using Canvas + PencilKit. Integrated flashcards, personalized “Learn” sections, Stripe payments, course rating, and deep linking for email verification — with detailed answer explanations, percentage-based answer stats, and sharing features to boost engagement and learning outcomes. |
-| **🛠️ Tech Used** | Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · UIGraphicsBeginImageContext · UIActivityViewController · Lottie |
-| **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
-
 ---
 
 <div align="center">
@@ -102,16 +92,13 @@ https://apps.apple.com/app/coursemia/id6504541195
 
 ---
 
-# 📌 [KAFO](https://apps.apple.com/eg/app/kafooo/id6605934382)
+# 📌 [KAFO(Support)](https://apps.apple.com/eg/app/kafooo/id6605934382)
 https://apps.apple.com/eg/app/kafooo/id6605934382
 
 | Section | Details |
 |---------|---------|
 | **🎯 SubTitle** | Life Style and Home Services. |
 | **✏️ Description** | Kafooo is a home services app offering a wide range of solutions including plumbing, electrical work, civil construction, metalwork, gardening, and car washing.It supports secure payments through HyperPay and Apple Pay, and features a multi-service card system that allows users to book several services in one request. |
-| **🛠️ Tech Used** | Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · UIGraphicsBeginImageContext · UIActivityViewController · Lottie |
-| **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
- 
 ---
 
 <div align="center">
@@ -135,9 +122,6 @@ https://testflight.apple.com/join/BNJfC1PD
 |---------|---------|
 | **🎯 SubTitle** | Medical & LifeStyle Career. |
 | **✏️ Description** | Developed a healthcare service platform connecting patients with medical providers or individual doctors through clinics or home visits. Enabled direct booking and service selection to simplify access to medical and nursing care on-demand. |
-| **🛠️ Tech Used** | Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · UIGraphicsBeginImageContext · UIActivityViewController · Lottie |
-| **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
- 
 ---
 
 
