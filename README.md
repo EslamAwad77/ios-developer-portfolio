@@ -2,6 +2,81 @@
 
 👋 Hi! I’m Eslam Awad Khater, an IOS Developer  || ( UIKit - Swift UI - Clean Architecture )
 
+# 🧩 Tech Stack & Experience Summary
+
+Welcome to my development portfolio!  
+Throughout my projects, I’ve worked across a wide range of technologies, architectures, SDKs, and integrations to build solid, scalable, and production-ready applications.
+
+---
+
+## 🛠️ Tech Stack
+**Languages & UI Frameworks:**  
+Swift · UIKit · SwiftUI · Combine  
+
+**Architecture Patterns:**  
+MVC · MVP · MVVM (Combine) · Clean Architecture (Data · Domain · Presentation)
+
+**Analytics:**  
+AppsFlyer · Firebase Analytics · Facebook Meta · Google Analytics
+
+**Payments & Billing:**  
+PayFort (Amazon) · Stripe · MyFatoorah · HyperPay · Paymob · Tamara · Apple Pay · In-App Purchase (IAP)
+
+**Communication SDKs:**  
+ZEGOCLOUD · OpenTok
+
+**Utilities & Media:**  
+Lottie · UIGraphics · UIActivityViewController
+
+**Backend & Services:**  
+Firebase (Auth · FCM Push Notifications · Analytics · Storage)
+
+---
+
+## 🧰 Responsibilities & Capabilities
+
+### 🎨 Interface & Architecture
+- Built iOS interfaces using **UIKit** and **SwiftUI**.
+- Implemented **MVC**, **MVP**, and **MVVM with Combine**.
+- Applied **Clean Architecture** with clear layer separation.
+- Built reactive, modern UIs using **Combine**.
+
+### 📊 Analytics & Tracking
+- Integrated and configured:  
+  **AppsFlyer**, **Firebase Analytics**, **Facebook Meta**, **Google Analytics**.
+- Implemented **deep linking** and attribution flows.
+
+### 💳 Payment Integrations
+- Integrated multiple payment gateways:  
+  **PayFort · Stripe · MyFatoorah · HyperPay · Paymob · Tamara · Apple Pay · IAP**.
+- Implemented secure transaction flow and billing lifecycle.
+
+### ☁️ Backend Integrations
+- Integrated Firebase services:  
+  **Authentication · FCM Push Notifications · Analytics · Storage**.
+- Implemented secure storage and protected archive processes.
+- Built robust networking layers with comprehensive scenario handling.
+
+### 🎥 Audio & Video Communication
+- Integrated voice & video call SDKs:  
+  **ZEGOCLOUD** and **OpenTok**.
+
+### ✨ UI, Media & Sharing
+- Implemented animations and onboarding using **Lottie**.
+- Built image generation, exporting, and sharing flows using **UIGraphics** & **UIActivityViewController**.
+- Supported app sharing & deep linking scenarios.
+
+### 🧪 Testing & Stability
+- Wrote **unit tests** for business logic and core modules.
+- Handled complex UX scenarios, fallback behavior, and error handling.
+
+### 🤖 AI Integrations
+- Integrated **AI-powered features** across applications depending on business needs.
+
+---
+---
+
+
 Here’s a bit of what I’ve been working on.
 
 # 📌 [Start Point](https://apps.apple.com/eg/app/start-point/id6476136533)
@@ -15,20 +90,6 @@ https://apps.apple.com/eg/app/start-point/id6476136533
 | **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
 
 ---
-
-### 🛠️ Tech Used
-Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · Lottie · UIGraphicsBeginImageContext · UIActivityViewController
-
-### 🧰 Technologies & Responsibilities
-- Applied MVVM + Coordinator clean architecture  
-- Built reactive data flows using Combine  
-- Integrated Firebase (Auth, FCM, Analytics)  
-- Implemented ZEGOCLOUD voice/video calling  
-- Integrated HyperPay & Tamara payment gateways  
-- Added AppsFlyer for analytics & deep linking  
-- Used Lottie for animations  
-- Handled image generation & sharing using UIGraphics & UIActivityViewController  
-
 
 <div align="center">
 
