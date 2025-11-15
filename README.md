@@ -124,7 +124,6 @@ https://testflight.apple.com/join/BNJfC1PD
 | **✏️ Description** | Developed a healthcare service platform connecting patients with medical providers or individual doctors through clinics or home visits. Enabled direct booking and service selection to simplify access to medical and nursing care on-demand. |
 ---
 
-
 <div align="center">
 
 # 📷 Screenshots  
@@ -158,9 +157,6 @@ https://apps.apple.com/eg/app/ibite-digital-food-menu/id6740300041
 |---------|---------|
 | **🎯 SubTitle** | Medical & LifeStyle Career. |
 | **✏️ Description** | Created an AR-based food menu app allowing users to visualize restaurant meals and drinks in 3D, with gamified collectible coupons. Enabled restaurant owners to onboard their restaurants through admin agreements, enhancing customer engagement and dining experiences. |
-| **🛠️ Tech Used** | Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · UIGraphicsBeginImageContext · UIActivityViewController · Lottie |
-| **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
-
 ---
 
 <div align="center">
@@ -186,9 +182,6 @@ provider -> https://testflight.apple.com/join/wmnyj687
 |---------|---------|
 | **🎯 SubTitle** | Medical & LifeStyle Career. |
 | **✏️ Description** | Developed dual mobile apps connecting vehicle owners with service providers for tires, glass, batteries, brakes, alternators, engines, and spare parts. Implemented a dynamic admin-controlled request form system to customize service requests in real time. |
-| **🛠️ Tech Used** | Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · UIGraphicsBeginImageContext · UIActivityViewController · Lottie |
-| **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
-
 ---
 # Client App
 
@@ -206,7 +199,6 @@ provider -> https://testflight.apple.com/join/wmnyj687
   <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Tam/Client/4181.imageset/4181.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
   <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Tam/Client/4180.imageset/4180.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
 </div>
-
 </div>
 
 # Provider App
@@ -225,7 +217,6 @@ provider -> https://testflight.apple.com/join/wmnyj687
   <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Tam/Provider/4180.imageset/4180.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
   <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Tam/Provider/4154.imageset/4154.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
 </div>
-
 </div>
 
 ---
@@ -237,9 +228,6 @@ https://apps.apple.com/eg/app/dream-closet/id6698866809
 |---------|---------|
 | **🎯 SubTitle** | Medical & LifeStyle Career. |
 | **✏️ Description** | Developed a fashion-focused marketplace with separate client and provider apps, enabling providers to list clothing items with full details (colors, types, sizes). Implemented purchase and rental flows with dedicated carts for each, offering flexible shopping experiences. |
-| **🛠️ Tech Used** | Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · UIGraphicsBeginImageContext · UIActivityViewController · Lottie |
-| **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
-
 ---
 
 <div align="center">
@@ -254,7 +242,6 @@ https://apps.apple.com/eg/app/dream-closet/id6698866809
   <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Dream%20Closet/1%20–%2018.imageset/1%20–%2018.png" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" /> 
   <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Dream%20Closet/1%20–%2015.imageset/1%20–%2015.png" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
 </div>
-
 </div>
 
 ---
@@ -266,9 +253,6 @@ https://apps.apple.com/eg/app/dream-closet/id6698866809
 |---------|---------|
 | **🎯 SubTitle** | Printing Services. |
 | **✏️ Description** | Built a service platform offering advertising, marketing, photography, printing, and document delivery. Streamlined order management to connect clients with creative and printing services efficiently. |
-| **🛠️ Tech Used** | Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · UIGraphicsBeginImageContext · UIActivityViewController · Lottie |
-| **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
-
 ---
 
 <div align="center">
@@ -296,9 +280,6 @@ Provider -> https://testflight.apple.com/join/CCv3NzW4
 |---------|---------|
 | **🎯 SubTitle** | Printing Services. |
 | **✏️ Description** | Built dual apps offering on-demand random services and consultations with integrated MyFatoorah and Apple Pay payments. Included real-time voice/video calling using ZEGOCLOUD to enable seamless communication between clients and providers. |
-| **🛠️ Tech Used** | Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · UIGraphicsBeginImageContext · UIActivityViewController · Lottie |
-| **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
-
 ---
 # Client
 <div align="center">
@@ -340,9 +321,6 @@ Provider -> https://testflight.apple.com/join/CCv3NzW4
 |---------|---------|
 | **🎯 SubTitle** | Printing Services. |
 | **✏️ Description** | Developed dual apps providing legal services and consultations with integrated real-time voice/video calling — initially using OpenTalk framework, later migrated to ZEGOCLOUD. Enabled seamless communication between clients and legal advisors within a secure environment. |
-| **🛠️ Tech Used** | Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · UIGraphicsBeginImageContext · UIActivityViewController · Lottie |
-| **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
-
 ---
 
 # 📌 [Ertah / Herfa (Client - Provider)](https://apps.apple.com/eg/app/ertah-%D8%A5%D8%B1%D8%AA%D8%A7%D8%AD/id6480517163)
@@ -353,9 +331,6 @@ provider -> https://apps.apple.com/eg/app/ertah-partner/id6503657481
 |---------|---------|
 | **🎯 SubTitle** | Craftsmen Career. |
 | **✏️ Description** | Built dual apps connecting clients with professional handymen for services like painting, plumbing, electrical work, tiling, construction, demolition, AC, and décor. Integrated MyFatoorah with Apple Pay to enable seamless and secure payments. |
-| **🛠️ Tech Used** | Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · UIGraphicsBeginImageContext · UIActivityViewController · Lottie |
-| **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
-
 ---
 # Client
 <div align="center">
@@ -395,9 +370,6 @@ https://testflight.apple.com/join/YR2kRZlz
 |---------|---------|
 | **🎯 SubTitle** | photography for parties, birthdays. |
 | **✏️ Description** | Developed an event services app combining client and provider roles, offering photography for parties, birthdays, and full wedding/event planning. Enabled streamlined booking and management to enhance celebration experiences. |
-| **🛠️ Tech Used** | Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · UIGraphicsBeginImageContext · UIActivityViewController · Lottie |
-| **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
-
 ---
 
 <div align="center">
@@ -425,9 +397,6 @@ https://apps.apple.com/eg/app/jobs-world/id1481055617
 |---------|---------|
 | **🎯 SubTitle** | LinkedIn. |
 | **✏️ Description** | Built a professional networking and job platform similar to LinkedIn, enabling users to browse and filter jobs with advanced search tools. Integrated in-app purchase subscription plans for premium features and enhanced career opportunities. |
-| **🛠️ Tech Used** | Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · UIGraphicsBeginImageContext · UIActivityViewController · Lottie |
-| **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
-
 ---
 
 <div align="center">
@@ -457,9 +426,6 @@ client -> https://testflight.apple.com/join/2jmCpzg7
 |---------|---------|
 | **🎯 SubTitle** | E-Commerce. |
 | **✏️ Description** | Developed dual apps similar to Talabat, connecting customers with restaurants and delivery providers. Implemented full ordering, delivery tracking, and restaurant management features for a seamless food delivery experience. |
-| **🛠️ Tech Used** | Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · UIGraphicsBeginImageContext · UIActivityViewController · Lottie |
-| **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
-
 ---
 # Client
 
@@ -473,7 +439,6 @@ client -> https://testflight.apple.com/join/2jmCpzg7
   <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Talabatk/user/3.imageset/3.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
   <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Talabatk/user/4.imageset/4.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
 </div>
-
 </div>
 
 ---
@@ -490,7 +455,6 @@ client -> https://testflight.apple.com/join/2jmCpzg7
   <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Talabatk/provider/3.imageset/3.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
   <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Talabatk/provider/4.imageset/4.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
 </div>
-
 </div>
 
 ---
@@ -502,9 +466,6 @@ https://apps.apple.com/eg/app/restoranti/id6467717247
 |---------|---------|
 | **🎯 SubTitle** | E-Commerce. |
 | **✏️ Description** | Developed a dedicated restaurant app with table reservations, multi-cart ordering, and advanced filtering by meal type and rating. Integrated PayFort payment gateway to enable secure and seamless transactions. |
-| **🛠️ Tech Used** | Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · UIGraphicsBeginImageContext · UIActivityViewController · Lottie |
-| **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
-
 ---
 
 <div align="center">
@@ -517,7 +478,6 @@ https://apps.apple.com/eg/app/restoranti/id6467717247
   <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Restoranti/meal%20detail.imageset/meal%20detail.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
   <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Restoranti/resturant%20detail.imageset/resturant%20detail.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
 </div>
-
 </div>
 
 ---
@@ -529,9 +489,6 @@ https://apps.apple.com/eg/app/divano/%20%20id6448907367
 |---------|---------|
 | **🎯 SubTitle** | E-Commerce. |
 | **✏️ Description** | Built an e-commerce platform similar to Alibaba, enabling users to browse, search, and purchase a wide variety of products. Integrated social login and PayFort payment gateway to provide a secure and seamless shopping experience. |
-| **🛠️ Tech Used** | Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · UIGraphicsBeginImageContext · UIActivityViewController · Lottie |
-| **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
- 
 ---
 
 <div align="center">
@@ -544,7 +501,6 @@ https://apps.apple.com/eg/app/divano/%20%20id6448907367
   <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/DIVANO/1242_2688_3.imageset/1242_2688_3.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
   <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/DIVANO/1242_2688_4.imageset/1242_2688_4.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
 </div>
-
 </div>
 
 ---
@@ -556,9 +512,6 @@ https://apps.apple.com/eg/app/alexon-restaurant/id6447482543
 |---------|---------|
 | **🎯 SubTitle** | E-Commerce. |
 | **✏️ Description** | Developed a restaurant booking app for a newly launched company, allowing users to browse restaurants and reserve tables. Integrated Amazon Pay Fort for secure online payments and seamless booking experiences. |
-| **🛠️ Tech Used** | Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · UIGraphicsBeginImageContext · UIActivityViewController · Lottie |
-| **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
-
 ---
 
 <div align="center">
@@ -584,9 +537,6 @@ https://github.com/EslamAwad77/Ostaz
 |---------|---------|
 | **🎯 SubTitle** | Vezeeta |
 | **✏️ Description** | Built a platform for teachers similar to Vessta for doctors, enabling educators to offer lessons, manage schedules, and connect with students. Designed to streamline teaching services and enhance the learning experience. |
-| **🛠️ Tech Used** | Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · UIGraphicsBeginImageContext · UIActivityViewController · Lottie |
-| **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
-
 ---
 
 # 📌 [Media Finder](https://github.com/EslamAwad77/MediaFinder)
@@ -596,9 +546,6 @@ https://github.com/EslamAwad77/MediaFinder
 |---------|---------|
 | **🎯 SubTitle** | Vezeeta |
 | **✏️ Description** | Developed a streaming platform offering movies, series, and music content similar to Netflix. Built with a rich media library and smooth playback experience to enhance user entertainment. |
-| **🛠️ Tech Used** | Swift · UIKit · Combine · Firebase · ZEGOCLOUD · HyperPay · Tamara · AppsFlyer · UIGraphicsBeginImageContext · UIActivityViewController · Lottie |
-| **🧰 Technologies** | - Implemented MVVM + Coordinator clean architecture. <br> - Used Combine for reactive data binding and async updates. <br> - Integrated Firebase for authentication, push notifications, and analytics. <br> - Integrated ZEGOCLOUD for video and voice call features. <br> - Implemented HyperPay and Tamara payment gateways. <br> - Added AppsFlyer for advanced user analytics and deep linking. <br> - Used Lottie for custom animations and onboarding screens. <br> - Utilized UIGraphics and UIActivityViewController for image sharing and export. |
-
 ---
 
 # 🧑‍💻 About Me
