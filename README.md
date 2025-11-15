@@ -74,8 +74,6 @@ Firebase (Auth · FCM Push Notifications · Analytics · Storage)
 - Integrated **AI-powered features** across applications depending on business needs.
 
 ---
----
-
 
 Here’s a bit of what I’ve been working on.
 
