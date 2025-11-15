@@ -554,7 +554,7 @@ https://github.com/EslamAwad77/MediaFinder
 | **Name** | Eslam Awad Khater |
 | **Title** | Senior iOS Mobile Developer |
 | **Email** | [eslam.awad.work@gmail.com](mailto:eslam.awad.work@gmail.com) |
-| **Phone** | +20 100 318 9674 / ‪+20 102 015 6533 |
+| **Phone** | +20 100 318 9674 |
 | **Marital Status** | Married |
 | **Nationality** | Egyptian |
 | **Location** | Egypt, Maadi - Dakahlia, Mansoura |
